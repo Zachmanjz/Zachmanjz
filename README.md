@@ -7,5 +7,5 @@ I am a motivated self taught front end developer with a master's degree. From th
 - 🌱 I’m currently learning Javascript and PHP
 - 🤔 I’m looking for help with best ways to validate forms on the backend.  
 - 📫 How to reach me: zach.jeremy@gmail.com
-- ⚡ Fun fact: I have a master's degree.  I love hot sauce and EDM.
--->
+- ⚡ Fun fact: I have a master's degree.  I love 🌮 Mexican food including hot sauce and 🎧 Electronic dance music
+
