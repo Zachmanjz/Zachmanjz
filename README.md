@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, I'm Jeremy Zach!
+I'm a front-end developer.
 
-<!--
-**Zachmanjz/Zachmanjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated, self-taught front end developer who previously worked in non-profit youth work. 
+
+
 
 Here are some ideas to get you started:
 
